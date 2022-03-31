@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Test Automation Portfolio
+
+This Github page is intended to act as both a reference point for my test automation portfolio, and a template for yours. 
 
 You can use the [editor on GitHub](https://github.com/askherconsulting/testautomationportfolio.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
