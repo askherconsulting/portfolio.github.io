@@ -76,7 +76,7 @@ Repo:[here](https://github.com/askherconsulting/NUnit-Testing-Restful-Booker)
 Blog:[Episode 7: NUnit](https://beththetester.com/2020/08/18/creating-a-test-automation-portfolio-bonus-episode-nunit-testing-of-restful-booker/).
 
 ### Episode 8: Codeless UI Automation Using TestProject
-![Image](https://beththetester.files.wordpress.com/2020/08/snag_1943fea.png?w=558)
+![Image](https://beththetester.files.wordpress.com/2020/11/testproject_logo.png?w=489)
 
 Repo: No Repo (Its codeless!) 
 
