@@ -1,6 +1,6 @@
 # Welcome to my Test Automation Portfolio
 
-This Github page is intended to act as both a reference point for my test automation portfolio, and a template for yours. 
+Hey, I'm Beth Marshall - nice of you to drop in! This Github page is intended to act as both a reference point for my own test automation portfolio, and a template for yours. 
 
 
 ## Episode 1: Setting A Goal
@@ -57,6 +57,10 @@ Blog:[Episode 7: NUnit](https://beththetester.com/2020/08/18/creating-a-test-aut
 Repo: No Repo (Its codeless!) 
 
 Blog:[Episode 8: TestProject](https://beththetester.com/2020/11/30/creating-a-test-automation-portfolio-bonus-edition-codeless-ui-automation-using-testproject/).
+
+Enjoy!
+Beth
+
 
 ### A Note On Markdown
 
