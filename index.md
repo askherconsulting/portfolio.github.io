@@ -28,6 +28,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ### Episode 1: Setting A Goal
+![Image](https://beththetester.files.wordpress.com/2020/08/markus-winkler-lnzuok1gxru-unsplash.jpg?w=1568) 
 How do you decide what to put in your test automation portfolio in the first place? For more details see the first in my series of blog posts, entitled [Episode 1: Setting A Goal](https://beththetester.com/2020/08/03/creating-a-test-automation-portfolio-episode-1-setting-a-goal/).
 
 ### Episode 2: Robotic Process Automation Using UiPath
