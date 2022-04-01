@@ -28,38 +28,56 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ### Episode 1: Setting A Goal
-![Image](https://beththetester.files.wordpress.com/2020/08/markus-winkler-lnzuok1gxru-unsplash.jpg?w=1568) 
-How do you decide what to put in your test automation portfolio in the first place? For more details see the first in my series of blog posts, entitled [Episode 1: Setting A Goal](https://beththetester.com/2020/08/03/creating-a-test-automation-portfolio-episode-1-setting-a-goal/).
+![Image](https://beththetester.files.wordpress.com/2020/08/shutterstock_242288239.jpg?w=1000)
+
+What are Test Automation Portfolio's, why are they useful and how do you decide what to put in one? 
+For more details check out first in my series of blog posts, entitled [Episode 1: Setting A Goal](https://beththetester.com/2020/08/03/creating-a-test-automation-portfolio-episode-1-setting-a-goal/).
 
 ### Episode 2: Robotic Process Automation Using UiPath
-Repo:[here](https://github.com/askherconsulting/UiPath-Sample-RPA) Note this is a private repo as contains personal info (learning curve!)
+![Image](https://beththetester.files.wordpress.com/2020/08/snag_4a4eb57.png?w=432)
+
+Repo:[Here](https://github.com/askherconsulting/UiPath-Sample-RPA) Note this is a private repo as contains personal info (learning curve!)
 
 Blog:[Episode 2: UiPath](https://beththetester.com/2020/08/09/automation-portfolio-episode-2-rpa-testing/).
 
 ### Episode 3: Javascript UI and API Automation Using Taiko and Gauge
-Repo:[here](https://github.com/askherconsulting/taiko-gauge-javascript-vscode-test-automation)
+![Image](https://beththetester.files.wordpress.com/2020/09/gauge_taiko_js.jpg?w=646)
 
-Blog: ["Episode 3: Taiko"](https://beththetester.com/2020/09/17/creating-a-test-automation-portfolio-episode-3-taiko-gauge-and-javascript/).
+Repo:[Here](https://github.com/askherconsulting/taiko-gauge-javascript-vscode-test-automation)
+
+Blog:["Episode 3: Taiko"](https://beththetester.com/2020/09/17/creating-a-test-automation-portfolio-episode-3-taiko-gauge-and-javascript/).
 
 ### Episode 4: API Testing for Restful Booker Using Postman
+![Image](https://beththetester.files.wordpress.com/2020/09/snag_40b9eed5.png?w=307)
+
 Repo:[here](https://github.com/joannalaine/postman-restful-booker/pulls)
 
 Blog: [Episode 4: Postman](https://beththetester.com/2020/09/27/creating-a-test-automation-portfolio-episode-4-api-testing-for-restful-booker-using-postman/).
 
 ### Episode 5: UI Web Browser Testing Using Cypress
+![Image](https://beththetester.files.wordpress.com/2020/10/image.png?w=744)
+
 Repo:[here](https://github.com/askherconsulting/Cypress-automation-portfolio-project)
 
 Blog:[Episode 5: Cypress](https://beththetester.com/2020/10/06/creating-a-test-automation-portfolio-episode-5-ui-web-browser-testing-using-cypress/).
 
 ### Episode 6: C# Solution for UI Automation Using Selenium 4.0
+![Image](https://beththetester.com/snag_704d44/)
+
 Repo:[here](https://github.com/askherconsulting/CSharp_.Net_Selenium_Automation_Portfolio)
 
 Blog:[Episode 6: Selenium](https://beththetester.com/2021/02/28/creating-a-test-automation-portfolio-episode-6-c-solution-for-ui-automation-using-selenium-4-0-aka-the-missing-episode/).
 
-### Jekyll Themes
+### Episode 7: NUnit Testing of API and UI
+![Image](https://beththetester.files.wordpress.com/2020/08/snag_1943fea.png?w=558)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/askherconsulting/testautomationportfolio.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Repo:[here](https://github.com/askherconsulting/NUnit-Testing-Restful-Booker)
 
-### Support or Contact
+Blog:[Episode 7: NUnit](https://beththetester.com/2020/08/18/creating-a-test-automation-portfolio-bonus-episode-nunit-testing-of-restful-booker/).
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Episode 8: Codeless UI Automation Using TestProject
+![Image](https://beththetester.files.wordpress.com/2020/08/snag_1943fea.png?w=558)
+
+Repo: No Repo (Its codeless!) 
+
+Blog:[Episode 8: TestProject](https://beththetester.com/2020/11/30/creating-a-test-automation-portfolio-bonus-edition-codeless-ui-automation-using-testproject/).
